@@ -1,3 +1,66 @@
-<svg width="66" height="66" viewBox="0 0 66 66" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M63 63H32.9976C16.4591 63 2.99996 49.5399 2.99996 32.9973C2.99996 16.4601 16.4591 3 32.9979 3C49.5408 3 63 16.4601 63 32.9973V63Z" fill="white" stroke="white" stroke-width="6"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2342 716">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: LexendDeca-Regular, 'Lexend Deca';
+        font-size: 350.69px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #71d3a0;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #2d55c2;
+        stroke-miterlimit: 10;
+        stroke-width: 25px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        fill: #2d55c2;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        font-family: LexendDeca-Light, 'Lexend Deca';
+        font-size: 74.2px;
+        font-variation-settings: 'wght' 300;
+        font-weight: 300;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="m393.5,69.22c-157.68,0-285.5,127.82-285.5,285.5,0,51.87,13.84,100.52,38.02,142.44l-38.02,143.06,148.32-35.06c40.71,22.35,87.46,35.06,137.18,35.06,157.68,0,285.5-127.82,285.5-285.5S551.18,69.22,393.5,69.22Zm0,519.86c-47.72,0-92.1-14.26-129.13-38.75l-87.63,22.32,24.58-83.75c-26.59-38.01-42.19-84.27-42.19-134.17,0-129.44,104.93-234.36,234.36-234.36s234.36,104.93,234.36,234.36-104.93,234.36-234.36,234.36Z"/>
+  <g>
+    <path class="cls-7" d="m275.6,196.11h148.8c3.09,0,5.6,2.51,5.6,5.6h0c0,6.72-5.46,12.18-12.18,12.18h-142.22c-3.09,0-5.6-2.51-5.6-5.6v-6.58c0-3.09,2.51-5.6,5.6-5.6Z"/>
+    <path class="cls-7" d="m371.78,507.62h149.44c2.91,0,5.28,2.37,5.28,5.28h0c0,6.33-5.14,11.48-11.48,11.48h-143.25c-2.91,0-5.28-2.37-5.28-5.28v-6.2c0-2.91,2.37-5.28,5.28-5.28Z" transform="translate(893 1032) rotate(-180)"/>
+    <rect class="cls-4" x="210.58" y="324.71" width="376.91" height="67.65" rx="33.83" ry="33.83" transform="translate(-118.62 499.28) rotate(-57.15)"/>
+  </g>
+  <text class="cls-1" transform="translate(743 453.08)"><tspan class="cls-7" x="0" y="0">Z</tspan><tspan x="231.1" y="0">-</tspan><tspan class="cls-6" x="369.27" y="0">R</tspan><tspan x="605.99" y="0">ou</tspan><tspan class="cls-2" x="1033.83" y="0">t</tspan><tspan x="1166.74" y="0">er</tspan></text>
+  <text class="cls-9" transform="translate(762 550.79)"><tspan x="0" y="0">O caminho in</tspan><tspan class="cls-8" x="464.11" y="0">t</tspan><tspan x="491.26" y="0">eligen</tspan><tspan class="cls-10" x="699.98" y="0">t</tspan><tspan x="727.14" y="0">e pa</tspan><tspan class="cls-11" x="881.77" y="0">r</tspan><tspan x="907.81" y="0">a cada con</tspan><tspan class="cls-5" x="1299.28" y="0">v</tspan><tspan x="1338.08" y="0">ersa</tspan></text>
 </svg>
