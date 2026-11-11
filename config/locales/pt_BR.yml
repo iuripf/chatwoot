@@ -438,7 +438,7 @@ pt_BR:
       description: 'O Painel de Aplicativos permite que você crie e incorpore aplicativos que exibem informações, pedidos ou histórico de pagamento, fornecendo mais contexto aos seus agentes de suporte ao cliente.'
     dyte:
       name: 'Cloudflare RealtimeKit'
-      short_description: 'Iniciar chamadas de vídeo/voz com clientes diretamente do Chatwoot.'
+      short_description: 'Iniciar chamadas de vídeo/voz com clientes diretamente do Z-Router.'
       description: 'O Cloudflare RealtimeKit permite que seus atendentes iniciem chamadas de vídeo e voz com seus clientes diretamente pelo Chatwoot.'
       meeting_name: '%{agent_name} começou a reunião'
     slack:
@@ -688,7 +688,7 @@ pt_BR:
       custom_domain_not_configured: 'Domínio personalizado não está configurado'
   installation:
     onboarding:
-      heading: 'Olá, boas-vindas ao Chatwoot 👋'
+      heading: 'Olá, boas-vindas ao Z-Router 👋'
       name: 'Nome'
       name_placeholder: 'Digite seu nome completo. Ex.: Bruce Wayne'
       company: 'Nome da empresa'
@@ -1023,7 +1023,7 @@ pt_BR:
       description: 'Atualize as configurações da instância e acesse o portal de cobrança'
       configure_title: 'Definir Configurações - %{config}'
       alert: 'Alerta!'
-      unauthorized_changes: 'Foram detectadas alterações não autorizadas em recursos premium do Chatwoot. Para continuar usando-as, faça upgrade do seu plano.'
+      unauthorized_changes: 'Foram detectadas alterações não autorizadas em recursos premium do Z-Router. Para continuar usando-as, faça upgrade do seu plano.'
       contact_for_help: 'Entre em contato para obter ajuda:'
       agents_over_limit: 'Você tem %{count} agentes. Adicione mais licenças para adicionar mais usuários.'
       current_plan: 'Plano atual'
